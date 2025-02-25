@@ -1,7 +1,3 @@
-# window-proxy-sever
-
-=======
-
 # Proxy Server GUI
 
 ## Overview
